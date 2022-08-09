@@ -15,6 +15,7 @@ do
 {
 
     bool wantList = true;
+
     while (wantList)
     {
 
@@ -66,7 +67,7 @@ do
         }
 
 
-    }
+    }-
 
 
     // TODO:  Ask the user which category to display: Hometown or Favorite food. Then display the relevant information.
