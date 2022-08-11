@@ -54,7 +54,7 @@ do
         userInput = Convert.ToInt32(Console.ReadLine());
 
 
-        if (userInput > 1 && userInput < 8)
+        if (userInput >0 && userInput < 8)
         {
             Console.WriteLine($"Student {userInput} is {names[userInput - 1]}");
             validInput = true;
@@ -67,7 +67,7 @@ do
         }
 
 
-    }-
+    }
 
 
     // TODO:  Ask the user which category to display: Hometown or Favorite food. Then display the relevant information.

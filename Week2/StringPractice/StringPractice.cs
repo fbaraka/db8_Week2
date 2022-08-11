@@ -9,7 +9,7 @@ foreach (string word in words)
 
 
 Console.WriteLine();
-Console.WriteLine("Split by commas");
+Console.WriteLine("Split by commas"); 
 Console.WriteLine();
 
 sentence = "Hello,there,everybody,from,planet,earth!";
